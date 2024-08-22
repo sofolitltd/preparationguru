@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18542948144",
+    "project_id": "preparation-guru",
+    "storage_bucket": "preparation-guru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18542948144:android:b3d8e68bdb50c17f8ee2f5",
+        "android_client_info": {
+          "package_name": "com.sofolit.preparation_guru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlzTY66aCK2I-oAHdtGnB6yzvybuYIgtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

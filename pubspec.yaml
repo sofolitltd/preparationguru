@@ -1,0 +1,79 @@
+name: preparation_guru
+description: "Exam Preparation"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  firebase_core: ^3.1.1
+  cloud_firestore: ^5.0.2
+  firebase_auth: ^5.1.1
+  iconsax_plus: ^1.0.0
+  fluttertoast: ^8.2.8
+  youtube_player_flutter: ^9.0.3
+  syncfusion_flutter_pdfviewer: ^26.2.10
+  url_launcher: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: Telenor
+      fonts:
+        - asset: assets/fonts/Telenor-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Telenor-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Telenor-Light.ttf
+          weight: 300
+
+    - family: HindSiliguri
+      fonts:
+        - asset: assets/fonts/HindSiliguri-SemiBold.ttf
+          weight: 700
+
+        - asset: assets/fonts/HindSiliguri-Regular.ttf
+          weight: 500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
